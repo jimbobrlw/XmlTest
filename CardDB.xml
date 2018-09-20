@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="CardDB.xsd" generated="2018-09-21T00:28:09">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="CardDB.xsd" generated="2018-09-21T00:23:24">
 <CardDB>
 <ID>1</ID>
 <CardName>Jeffy</CardName>
-<<<<<<< HEAD
-<ManaCost>22</ManaCost>
-=======
 <ManaCost>32</ManaCost>
->>>>>>> b9b187b6ba9c433eee190dfccf6c0e4d907bf52f
 <CardText>Yes</CardText>
 </CardDB>
 <CardDB>
 <ID>2</ID>
 <CardName>Jeffy 2 look whos jeff</CardName>
-<ManaCost>0</ManaCost>
+<ManaCost>1</ManaCost>
 <CardText>No</CardText>
 </CardDB>
 </dataroot>
