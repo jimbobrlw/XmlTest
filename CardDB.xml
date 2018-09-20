@@ -3,7 +3,11 @@
 <CardDB>
 <ID>1</ID>
 <CardName>Jeffy</CardName>
+<<<<<<< HEAD
 <ManaCost>22</ManaCost>
+=======
+<ManaCost>32</ManaCost>
+>>>>>>> b9b187b6ba9c433eee190dfccf6c0e4d907bf52f
 <CardText>Yes</CardText>
 </CardDB>
 <CardDB>
